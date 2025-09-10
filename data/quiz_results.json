@@ -1,0 +1,11 @@
+{
+    "Nikki": {
+        "Informatics Practices": [
+            {
+                "score": 100.0,
+                "correct": 3,
+                "feedback": "You got 3/3 correct. Score: 100.0%. Excellent work! You're ready for the next level."
+            }
+        ]
+    }
+}

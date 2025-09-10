@@ -1,0 +1,42 @@
+{
+    "data\\user_profile.json": {
+        "username": "Nikhita",
+        "education_level": {
+            "level": "School",
+            "grade": "Grade 12"
+        },
+        "subjects": [
+            "English",
+            "Chemistry",
+            "Informatics Practices"
+        ]
+    },
+    "Nikhita": {},
+    "Nikki": {
+        "name": "Nikki",
+        "education_level": "School",
+        "grade": "Grade 11",
+        "grades": {
+            "Informatics Practices": 100
+        },
+        "subjects": [
+            "Informatics Practices"
+        ],
+        "progress": {
+            "Informatics Practices": [
+                {
+                    "score": 100.0,
+                    "correct": 3
+                }
+            ]
+        },
+        "taught_concepts": {
+            "Informatics Practices": [
+                "Regular Expression Quantifiers and Grouping"
+            ]
+        },
+        "levels": {
+            "Informatics Practices": "intermediate"
+        }
+    }
+}
